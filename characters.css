@@ -1,0 +1,48 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    background-color: green;
+    text-align: center;
+    font-size: 50x;
+}
+.characters{
+    font-size: 25px;
+    border-style: dotted;
+    border-radius: 5vb;
+    text-align: center;
+    width:1000px;
+    margin-left: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    margin-top: 20px;
+
+}
+header{
+    font-size: 75px;
+    text-align: center;
+    color:lab(lightness a b);
+    background-color: green;
+    border-style: dotted;
+    border-radius: 5vb;
+    width:1500px;
+    margin-left: 150px;
+}
+.logo{
+    margin-left: 50%;
+    height: 250px;
+    border-style:dotted;
+    border-radius: 5vb;
+    width: 200px;
+    text-align: center;
+    margin-top: 3%;
+    background-color: red;
+    font-size: 50px;
+}
+.continue{
+        height:50px;
+        width:150px;
+        color:blue;
+        background-color: aqua;
+}

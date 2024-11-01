@@ -1,0 +1,128 @@
+body {
+	background:linear-gradient(75deg,red,black);
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background:transparent;
+    color:rgba(0, 0, 0, 0.753);
+    font-size: 150px;
+    text-align: center;
+    font-family: cursive;
+    width:1500px;
+    margin-left: 5px;
+    text-shadow: 5vb;
+    box-shadow: black;
+    cursor: pointer;
+    transition: 0.5ms;
+    margin-top: 2%;
+}
+header:hover{
+    scale:1.1;
+}
+
+p{
+    font-size: 50px;
+}
+li{
+    font-size: 30px;
+}
+button{
+    height:50px;
+    width:150px;
+    color:blue;
+    background-color: aqua;
+}
+h1,h2,h3,h4{
+    background-color: red;
+    color:blue;
+    font-size: 50px;
+}
+
+
+.insta{
+    background-color:transparent;
+    color:white;
+    font-size: 30px;
+}
+.contact{
+    text-align: centre;
+}
+
+.livemovies{
+    height:2500px;
+    width:1000px;
+    text-align:left;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+    margin-left:300px;
+    background:#001;
+    border-radius: 5vb;
+    padding-top: 10vb;
+    margin-top: 10vb;
+    color:aliceblue;
+}
+
+.Animated{
+    height:400px;
+    width:1000px;
+    text-align: center;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+    margin-left:300px;
+    background:linear-gradient(90deg,blue,green);
+    border-radius: 5vb;
+    padding-top: 10vb;
+    margin-top: 10vb;
+}
+.lego{
+    height:550px;
+    width:1000px;
+    text-align: center;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+    margin-left:300px;
+    background:linear-gradient(90deg,blue,green);
+    border-radius: 5vb;
+    padding-top: 10vb;
+    margin-top: 5vb;
+}
+.Series{
+    height:1000px;
+    width:1000px;
+    text-align: center;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+    margin-left:10px;
+    background:linear-gradient(90deg,blue,green);
+    border-radius: 5vb;
+    padding-top: 10vb;
+    margin-top: 10vb;
+}
+.names{
+    height:100px;
+    width:1000px;
+    text-align: center;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+    margin-left:10px;
+    background:linear-gradient(90deg,blue,green);
+    border-radius: 5vb;
+    margin-top: 10vb;
+    padding-bottom: 10px;
+}
+
+.contact{
+    height:px;
+    width:1000px;
+    margin-left: 10px;
+    background:linear-gradient(90deg,blue,green);
+    padding-bottom: 10px;
+    border-style:dotted;
+    margin-top: 50px;
+    border-radius:5vb;
+}
